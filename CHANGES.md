@@ -1,6 +1,13 @@
 # Major changes to the IOCCC entry toolkit
 
 
+## Release 2.11.10 2026-08-03
+
+Sync [jparse repo](https://github.com/xexyl/jparse) with a fix in jval.c
+(although it's actually currently a stub until details can be worked out,
+something that won't happen likely for quite a while).
+
+
 ## Release 2.11.9 2026-07-04
 
 Updated `MKIOCCCENTRY_REPO_VERSION` to "2.11.9 2026-07-04"

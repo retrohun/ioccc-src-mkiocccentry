@@ -1385,8 +1385,8 @@ jstrencode.o: ../dbg/c_bool.h ../dbg/c_compat.h ../dbg/dbg.h \
     json_sem.h json_utf8.h json_util.h jstr_util.h jstrencode.c \
     jstrencode.h util.h version.h
 jval.o: ../dbg/c_bool.h ../dbg/c_compat.h ../dbg/dbg.h \
-    ../dyn_array/dyn_array.h ../pr/pr.h jparse.h jparse.tab.h jparse_main.h \
-    json_parse.h json_sem.h json_utf8.h json_util.h jval.c util.h version.h
+    ../dyn_array/dyn_array.h ../pr/pr.h jparse.h jparse.tab.h json_parse.h \
+    json_sem.h json_utf8.h json_util.h jval.c jval.h util.h version.h
 util.o: ../dbg/c_bool.h ../dbg/c_compat.h ../dbg/dbg.h \
     ../dyn_array/dyn_array.h ../pr/pr.h util.c util.h
 verge.o: ../dbg/c_bool.h ../dbg/c_compat.h ../dbg/dbg.h \
