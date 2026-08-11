@@ -1,7 +1,7 @@
 /*
  * limit_ioccc - IOCCC size and rule related limitations
  *
- * Copyright (c) 2021-2025 by Landon Curt Noll and Cody Boone Ferguson.
+ * Copyright (c) 2021-2026 by Landon Curt Noll and Cody Boone Ferguson.
  * All Rights Reserved.
  *
  * Permission to use, copy, modify, and distribute this software and
@@ -130,7 +130,7 @@
  *
  * use format: IOCCC[0-9][0-9] or IOCCCMOCK
  */
-#define IOCCC_CONTEST "IOCCC29"
+#define IOCCC_CONTEST "IOCCC30"
 
 
 /*
@@ -139,7 +139,7 @@
  * NOTE: If the contest spans the new year, then the year
  *	 that IOCCC_CONTEST opens may be different.
  */
-#define IOCCC_YEAR (2025)
+#define IOCCC_YEAR (2026)
 
 
 /*

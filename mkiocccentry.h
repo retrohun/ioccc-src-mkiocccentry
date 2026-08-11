@@ -36,7 +36,7 @@
  *	@SirWumpus		Anthony Howe
  *	@vog			Volker Diels-Grabsch
  *
- * Copyright (c) 2021-2025 by Landon Curt Noll and Cody Boone Ferguson.
+ * Copyright (c) 2021-2026 by Landon Curt Noll and Cody Boone Ferguson.
  * All Rights Reserved.
  *
  * Permission to use, copy, modify, and distribute this software and
@@ -158,7 +158,7 @@
 #define ISO_3166_1_CODE_URL3 "\thttps://www.iso.org/obp/ui/#search"
 #define ISO_3166_1_CODE_URL4 "\thttps://www.iso.org/glossary-for-iso-3166.html"
 
-#define IOCCC_REGISTER_URL "https://www.freelists.org/list/ioccc29-reg" /* for mailing list to register for IOCCC29 */
+#define IOCCC_REGISTER_URL "https://www.freelists.org/list/ioccc30-reg" /* for mailing list to register for IOCCC30 */
 #define IOCCC_SUBMIT_URL "https://submit.ioccc.org"	/* URL to submit to contest */
 #define IOCCC_NEWS_URL "https://www.ioccc.org/news.html"
 #define IOCCC_REGISTER_FAQ_URL "https://www.ioccc.org/faq.html#enter"

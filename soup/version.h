@@ -36,7 +36,7 @@
  *	@SirWumpus		Anthony Howe
  *	@vog			Volker Diels-Grabsch
  *
- * Copyright (c) 2021-2025 by Landon Curt Noll and Cody Boone Ferguson.
+ * Copyright (c) 2021-2026 by Landon Curt Noll and Cody Boone Ferguson.
  * All Rights Reserved.
  *
  * Permission to use, copy, modify, and distribute this software and
@@ -84,7 +84,7 @@
  *
  * NOTE: This should match the latest Release string in CHANGES.md
  */
-#define MKIOCCCENTRY_REPO_VERSION "2.11.10 2026-08-03"	/* special release format: major.minor[.patch] YYYY-MM-DD */
+#define MKIOCCCENTRY_REPO_VERSION "2.12.0 2026-08-10"	/* special release format: major.minor[.patch] YYYY-MM-DD */
 
 /*
  * official soup version (aka recipe :-) )
@@ -100,9 +100,9 @@
 /*
  * official mkiocccentry versions (mkiocccentry itself and answers)
  */
-#define MKIOCCCENTRY_VERSION "2.3.5 2026-06-17"	/* format: major.minor[.patch] YYYY-MM-DD */
+#define MKIOCCCENTRY_VERSION "2.4.0 2026-08-10"	/* format: major.minor[.patch] YYYY-MM-DD */
 #define MIN_MKIOCCCENTRY_VERSION MKIOCCCENTRY_VERSION
-#define MKIOCCCENTRY_ANSWERS_VERSION "MKIOCCCENTRY_ANSWERS_IOCCC29-1.0" /* answers file version */
+#define MKIOCCCENTRY_ANSWERS_VERSION "MKIOCCCENTRY_ANSWERS_IOCCC-1.0" /* answers file version */
 #define MKIOCCCENTRY_ANSWERS_EOF "ANSWERS_EOF" /* answers file EOF marker */
 
 /*

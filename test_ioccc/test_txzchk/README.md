@@ -138,7 +138,7 @@ level directory where the mkiocccentry.c source file is located:
 
 ```sh
 make rebuild_txzchk_test_errors
-git add test_ioccc/test_txzchk/bad/*.txt test_ioccc/test_txzchk/bad/*.err
+git add test_ioccc/slot/bad/answers/* test_ioccc/slot/good/answers/*
 ```
 
 BUT MAKE SURE THAT ALL FILES ARE CORRECT! The make rule will run the `-B` option

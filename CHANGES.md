@@ -1,6 +1,31 @@
 # Major changes to the IOCCC entry toolkit
 
 
+## Release 2.12.0 2026-08-10
+
+Prepare for **IOCCC30**.
+
+Remove IOCCC number from `MKIOCCCENTRY_ANSWERS_VERSION` so that if nothing
+needed to have changed, it doesn't have to change each contest.
+
+Changed `IOCCC_REGISTER_URL` to refer to what will be the mailing list
+to register for **IOCCC30**.
+
+Changed `IOCCC_CONTEST` to "IOCCC30"
+
+Changed `IOCCC_YEAR` to 2026
+
+Changed `MKIOCCCENTRY_ANSWERS_VERSION` to "MKIOCCCENTRY_ANSWERS_IOCCC-1.0".
+
+Updated `MKIOCCCENTRY_VERSION` to "2.4.0 2026-08-10"
+
+Updated `MKIOCCCENTRY_REPO_VERSION` to "2.12.0 2026-08-10"
+
+Updated `test_ioccc/test_txzchk/README.md` on how to add rebuilt txzchk tests.
+
+Updated `test_ioccc/txzchk_test.sh` on how to add rebuilt txzchk tests.
+
+
 ## Release 2.11.10 2026-08-03
 
 Sync [jparse repo](https://github.com/xexyl/jparse) with a fix in jval.c
